@@ -18,7 +18,7 @@
 ## 📸 Application Screenshots Showcase
 
 > [!NOTE]
-> High-resolution walkthrough of the mobile application across onboarding, authentication, real-time rescue dispatch, and facility management.
+> High-resolution walkthrough of the mobile application across onboarding, multi-role authentication, real-time rescue alerts, incident triage, organization management, and medical team dispatch.
 
 | 🌟 Onboarding: Welcome | 🚀 Onboarding: Effortless Control |
 | :---: | :---: |
@@ -35,7 +35,7 @@
 | ![Lifeguard Alerts](screenshots/05_lifeguard_alerts.png) | ![Incident Report](screenshots/07_incident_report.png) |
 | *Instant push alert with timestamp & AI detection log* | *Triage: Need CPR, Ambulance, or False Alarm* |
 
-| ⚙️ Navigation & Settings Menu | ⏱️ Rescue Stopwatch & Timer |
+| ⚙️ Lifeguard Settings Menu | ⏱️ Rescue Stopwatch & Timer |
 | :---: | :---: |
 | ![Settings Menu](screenshots/06_settings_menu.png) | ![Rescue Timer](screenshots/11_rescue_timer.png) |
 | *Quick access to profile, alerts, theme & logs* | *Precise response-time tracking down to seconds* |
@@ -44,6 +44,21 @@
 | :---: | :---: |
 | ![Theme Switcher](screenshots/08_theme_screen.png) | ![Profile Screen](screenshots/09_profile.png) |
 | *Interactive Day/Night switcher with animated art* | *Account credentials & role verification* |
+
+| 🏢 Facility Management Hub | 🔑 Organization Invitation Code |
+| :---: | :---: |
+| ![Org Settings](screenshots/13_org_settings_menu.png) | ![Organization Code](screenshots/15_organization_code.png) |
+| *Organization manager controls & member administration* | *Secure, masked facility access key for staff onboarding* |
+
+| 👥 Staff Directory & Lifeguards | ➕ Provision Staff Member |
+| :---: | :---: |
+| ![Lifeguard Accounts](screenshots/14_all_lifeguards_accounts.png) | ![Create Member](screenshots/16_create_member.png) |
+| *Active organization lifeguard roster* | *Create accounts for lifeguards & medical staff* |
+
+| 📊 Daily Incident Reports | 🚑 Medical Team Dispatch Alerts |
+| :---: | :---: |
+| ![Daily Reports](screenshots/12_daily_reports_lifeguard.png) | ![Medic Notifications](screenshots/17_medic_notifications.png) |
+| *Historical logs & incident triage archive* | *Emergency dispatch alerts & triage messaging* |
 
 | 💬 In-App Diagnostics & Feedback |
 | :---: |
