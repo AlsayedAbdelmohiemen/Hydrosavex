@@ -1,0 +1,67 @@
+﻿# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Local Logs and test dumps
+run_log*.txt
+devices*.txt
+database-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Security & Private Credentials
+*-firebase-adminsdk-*.json
+pooleye-*-firebase-adminsdk-*.json
+projectjetson/*-firebase-adminsdk-*.json
+*.key
+.env
+*.env
+
+# Jetson Temporary Videos & Frames (keep model weights, ignore test video cache)
+projectjetson/output_frames/
+projectjetson/Videos/
+
+node_modules/
+*.log
+.firebase/
+
+
+**/build/
+
+
+lib/database/firebase_service_account.dart
+

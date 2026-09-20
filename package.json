@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase-admin": "^12.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "typescript": "^5.5.4"
+  }
+}

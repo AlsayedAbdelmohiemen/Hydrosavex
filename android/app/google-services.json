@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420821792386",
+    "project_id": "drowning-detection-main",
+    "storage_bucket": "drowning-detection-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420821792386:android:e6fedcb7bc33b514de269b",
+        "android_client_info": {
+          "package_name": "com.example.pooleye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgRstoSdjNsUpzGtGgdrVKofQ5G2kYUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
