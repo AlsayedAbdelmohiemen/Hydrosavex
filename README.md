@@ -18,33 +18,53 @@
 ## 📸 Application Screenshots Showcase
 
 > [!NOTE]
-> High-resolution walkthrough of the mobile application across onboarding, multi-role authentication, real-time rescue alerts, incident triage, organization management, and medical team dispatch.
+> High-resolution walkthrough of the mobile application across branding, onboarding, multi-role authentication, real-time rescue dispatch, emergency triage, organization facility management, medical dispatch, home pool monitoring, and interactive first-aid guidance.
 
-| 🌟 Onboarding: Welcome | 🚀 Onboarding: Effortless Control |
+### 🌟 Branding & Splash Screen
+| ☀️ Splash Screen (Light) | 🌙 Splash Screen (Dark) |
+| :---: | :---: |
+| ![Splash Screen Light](screenshots/00_splash_screen.png) | ![Splash Screen Dark](screenshots/00_splash_screen_dark.png) |
+| *Official HydroSaveX launch screen (Light)* | *Official HydroSaveX launch screen (Dark)* |
+
+### 🚀 Onboarding & Multi-Role Authentication
+| 🌟 Onboarding: Welcome | 🚀 Onboarding: Control |
 | :---: | :---: |
 | ![Welcome Screen](screenshots/01_onboarding_1.png) | ![Control Screen](screenshots/02_onboarding_2.png) |
 | *Personalized welcome & system intro* | *Effortless pool facility control* |
 
-| 🔐 Secure Authentication | 👥 Multi-Role Registration |
+| 🔐 Secure Sign In (English) | 🌍 التسجيل والدخول (عربي RTL) |
 | :---: | :---: |
-| ![Login Screen](screenshots/03_login.png) | ![Sign Up Screen](screenshots/04_signup.png) |
-| *Role-based authentication & session persistence* | *Organization Manager & Staff onboarding* |
+| ![Login Screen](screenshots/03_login.png) | ![Login Arabic](screenshots/23_login_arabic.png) |
+| *Role-based authentication & session persistence* | *Full Arabic localization & RTL layout support* |
 
+| 👥 Multi-Role Registration | 👤 User Profile Management |
+| :---: | :---: |
+| ![Sign Up Screen](screenshots/04_signup.png) | ![Profile Screen](screenshots/09_profile.png) |
+| *Organization Manager, Lifeguard & Medic registration* | *Account credentials & role verification* |
+
+### 🚨 Lifeguard Emergency Response & Operations
 | 🚨 Real-time Drowning Alerts | 📋 Incident Triage & Report |
 | :---: | :---: |
 | ![Lifeguard Alerts](screenshots/05_lifeguard_alerts.png) | ![Incident Report](screenshots/07_incident_report.png) |
 | *Instant push alert with timestamp & AI detection log* | *Triage: Need CPR, Ambulance, or False Alarm* |
 
-| ⚙️ Lifeguard Settings Menu | ⏱️ Rescue Stopwatch & Timer |
+| ⚙️ Lifeguard Hub (Dark Theme) | ⏱️ Rescue Stopwatch & Timer |
 | :---: | :---: |
 | ![Settings Menu](screenshots/06_settings_menu.png) | ![Rescue Timer](screenshots/11_rescue_timer.png) |
 | *Quick access to profile, alerts, theme & logs* | *Precise response-time tracking down to seconds* |
 
-| 🎨 Lighthouse Day/Night Theme | 👤 User Profile Management |
+| 📊 Daily Incident Reports | 🎨 Lighthouse Day/Night Switcher |
 | :---: | :---: |
-| ![Theme Switcher](screenshots/08_theme_screen.png) | ![Profile Screen](screenshots/09_profile.png) |
-| *Interactive Day/Night switcher with animated art* | *Account credentials & role verification* |
+| ![Daily Reports](screenshots/12_daily_reports_lifeguard.png) | ![Theme Switcher](screenshots/08_theme_screen.png) |
+| *Historical logs & incident triage archive* | *Interactive Day/Night switcher with animated art* |
 
+### 🚑 Medical Team Dispatch & Incident Logging
+| 🚨 Medical Team Notifications | 📝 Medical Incident Response Report |
+| :---: | :---: |
+| ![Medic Notifications](screenshots/17_medic_notifications.png) | ![Send Medic Report](screenshots/18_send_medic_report.png) |
+| *Emergency dispatch alerts received by medics* | *Submit medical feedback, CPR status & triage notes* |
+
+### 🏢 Facility & Organization Administration
 | 🏢 Facility Management Hub | 🔑 Organization Invitation Code |
 | :---: | :---: |
 | ![Org Settings](screenshots/13_org_settings_menu.png) | ![Organization Code](screenshots/15_organization_code.png) |
@@ -55,11 +75,18 @@
 | ![Lifeguard Accounts](screenshots/14_all_lifeguards_accounts.png) | ![Create Member](screenshots/16_create_member.png) |
 | *Active organization lifeguard roster* | *Create accounts for lifeguards & medical staff* |
 
-| 📊 Daily Incident Reports | 🚑 Medical Team Dispatch Alerts |
+### 🏡 Home Pool Monitoring & Emergency First Aid
+| 🔔 Home Pool Alerts & History | ⚙️ Home User Settings Hub |
 | :---: | :---: |
-| ![Daily Reports](screenshots/12_daily_reports_lifeguard.png) | ![Medic Notifications](screenshots/17_medic_notifications.png) |
-| *Historical logs & incident triage archive* | *Emergency dispatch alerts & triage messaging* |
+| ![Home Notifications](screenshots/19_home_notifications.png) | ![Home Settings Menu](screenshots/20_home_settings_menu.png) |
+| *Real-time notifications for private pool owners* | *Quick access to settings, alerts & first-aid guide* |
 
+| 🩹 Drowning First Aid Directory | 🎥 Interactive Video & Step Guidance |
+| :---: | :---: |
+| ![First Aid Guide](screenshots/21_first_aid_guide.png) | ![First Aid Video](screenshots/22_first_aid_detail_video.png) |
+| *Emergency CPR, chest compression & rescue breathing index* | *Step-by-step instructions with integrated emergency video* |
+
+### 💬 Diagnostics & Feedback
 | 💬 In-App Diagnostics & Feedback |
 | :---: |
 | ![Wiredash Feedback](screenshots/10_feedback_wiredash.png) |
