@@ -15,6 +15,21 @@
 
 ---
 
+## 🎥 System Demonstration Video
+
+> [!TIP]
+> Watch the end-to-end HydroSaveX platform in action, showcasing real-time edge AI detection and mobile alert dispatch.
+
+<p align="center">
+  <video src="demo/hydrosavex_demo.mp4" controls="controls" width="100%" style="max-height: 520px; border-radius: 12px;">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+> 🎬 **Direct Link**: [Click here to view or download `demo/hydrosavex_demo.mp4`](demo/hydrosavex_demo.mp4)
+
+---
+
 ## 📸 Application Screenshots Showcase
 
 > [!NOTE]
@@ -137,6 +152,9 @@ graph TD
 
 ```
 hydrosavex/
+├── demo/                              # Live system demonstration video (MP4)
+│   └── hydrosavex_demo.mp4            # End-to-end demonstration recording
+│
 ├── projectjetson/                     # Edge AI & Computer Vision (Python / Jetson)
 │   ├── final.py                       # Main production pipeline (YOLOv8 + Firebase)
 │   ├── jetson.py                      # Custom PyTorch CNN inference & local alarm
